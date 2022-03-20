@@ -1,0 +1,41 @@
+.cols {
+    display: table;
+    width: 100%;
+
+  }
+  .cols div {
+    display: table-cell;
+  }
+
+  .col1 {
+
+    width: 20%;
+    float: left;
+  }
+
+  .col2 {
+
+    width: 80%;
+  }
+
+  footer {
+    min-height: 70px;
+    width: 100%;
+    position: absolute;
+    clear: both;
+    margin-top: -100px;
+    padding-top: 0px;
+    overflow: visible;
+    top:100%;
+}
+
+.col3 {
+
+    width: 50%;
+    float: left;
+  }
+
+  .col4 {
+
+    width: 50%;
+  }
